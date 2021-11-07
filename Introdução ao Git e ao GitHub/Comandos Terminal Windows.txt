@@ -1,0 +1,12 @@
+WIndows:
+
+dir (directory)
+cd (change directory)
+cd .. (retroceder 1 vez)
+cls (clear screen)
+TAB (auto completar)
+mkdir (make directory)
+del ( delete files)
+rmdir /S /Q (remove directory)
+echo (repete a stream no terminal)
+echo > (atribiu a algo)

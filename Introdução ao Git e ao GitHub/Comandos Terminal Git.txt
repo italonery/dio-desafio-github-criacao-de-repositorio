@@ -1,0 +1,12 @@
+Comandos no Git:
+
+git init (iniciar o git dentro de uma pasta)
+git config --global user.email "email" (adicionar email ao git) obs: usar o mesmo do github
+git config --global user.name "name" (adicionar username ao git) obs: usar o mesmo do github
+git status (status de diretórios e arquivos)
+git add * (adicionar mudanças ao staged)
+git commit -m "nota da commit" (cria novo commit atualizado)
+git push origin master (lança novo commit no github)
+git pull origin master (puxa commit atualizado do github para entregar ao seu diretório)
+git clone + url (clonar código do hithub)
+git remote -v (ver repositórios remotos)

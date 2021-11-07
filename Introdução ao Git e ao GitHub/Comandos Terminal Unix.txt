@@ -1,0 +1,11 @@
+Unix:
+
+ls (directory)
+cd (change directory)
+cd .. (retroceder 1 vez)
+clear ou ctrl + L (clear screen)
+TAB (auto completar)
+mkdir (make directory)
+rm -rf (deleta diretórios e arquivos)
+echo (repete a stream no terminal)
+echo > (atribui a algo)
